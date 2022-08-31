@@ -1,1 +1,1 @@
-main.py
+Please run this program by run.py
